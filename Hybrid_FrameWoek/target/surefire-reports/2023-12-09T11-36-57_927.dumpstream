@@ -1,0 +1,5 @@
+# Created at 2023-12-09T11:36:59.284
+Boot Manifest-JAR contains absolute paths in classpath 'D:\LiveProject-ERP\Hybrid_FrameWoek\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
